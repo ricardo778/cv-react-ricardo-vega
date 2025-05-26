@@ -1,6 +1,7 @@
+import './estilos.css';
 export default function Educacion() {
   return (
-    <section>
+    <section className='educacion'>
       <h3>Educación</h3>
       <ul>
         <li>
