@@ -1,6 +1,7 @@
+import './estilos.css';
 export default function Experiencia() {
   return (
-    <section>
+    <section className='experiencia'>
       <h3>Experiencia Profesional</h3>
       <ul>
         <li>
