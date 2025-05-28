@@ -1,3 +1,4 @@
+//tecnologias.jsx
 export default function StackTecnologias() {
   const tecnologias = [
     { id: 1, nombre: "React", tipo: "frontend" },
